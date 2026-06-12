@@ -64,7 +64,7 @@ xcode-select --install
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Hacker-Dt/Multithreading-Cricket-Simulator
+git clone https://github.com/Dt-Hacker/Multithreaded-Cricket-Simulator
 cd cricket-simulator
 ```
 
